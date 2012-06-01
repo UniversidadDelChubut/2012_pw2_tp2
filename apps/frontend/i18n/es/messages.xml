@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd" >
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>"%value%" is not a number.</source>
+        <target>"%value%" no es un número válido.</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>"%value%" is not an integer.</source>
+        <target>"%value%" no es un número válido.</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>An object with the same "%column%" already exist.</source>
+        <target>Ya existe un registro con el mismo valor de "%column%".</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>"%value%" is too long (%max_length% characters max).</source>
+        <target>El texto es demasiado largo (se permite un máximo de %max_length% caracteres).</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>"%value%" is too short (%min_length% characters min).</source>
+        <target>El texto es demasiado corto (se permite un mínimo de %min_length% caracteres).</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>The begin date must be before the end date.</source>
+        <target>La fecha de inicio debe ser anterior a la de fin.</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>The date must be before %max%.</source>
+        <target>La fecha debe ser anterior a %max%.</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>The date must be after %min%.</source>
+        <target>La fecha debe ser posterior a %min%.</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>CSRF attack detected.</source>
+        <target>Se ha detectado un ataque CSRF</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>File is too large (maximum is %max_size% bytes).</source>
+        <target>El fichero es demasiado grande (el tamaño máximo son %max_size% octetos).</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invalid mime type (%mime_type%).</source>
+        <target>Tipo mime no válido (%mime_type%).</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The uploaded file was only partially uploaded.</source>
+        <target>El fichero no se ha subido en su totalidad.</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Missing a temporary folder.</source>
+        <target>No se ha encontrado un directorio temporal.</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Failed to write file to disk.</source>
+        <target>Error al grabar el fichero en el disco.</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>File upload stopped by extension.</source>
+        <target>No se ha permitido la subida del fichero por su extensión (tipo).</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>At least %min% values must be selected (%count% values selected).</source>
+        <target>Se deben seleccionar al menos %min% valores (se han seleccionado %count%).</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>At most %max% values must be selected (%count% values selected).</source>
+        <target>Se deben seleccionar como máximo %max% valores (se han seleccionado %count%).</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>"%value%" must be at most %max%.</source>
+        <target>"%value%" debe ser como máximo %max%.</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>"%value%" must be at least %min%.</source>
+        <target>"%value%" debe ser como mínimo %min%.</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Unexpected extra form field named "%field%".</source>
+        <target>No se esperaba este campo extra en el formulario: "%field%".</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</source>
+        <target>No se puede procesar el formulario enviado. Probablemente se deba a que has subido un fichero demasiado grande.</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>"%value%" does not match the time format (%time_format%).</source>
+        <target>"%value%" no concuerda con el formato de hora (%time_format%).</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>"%value%" does not match the date format (%date_format%).</source>
+        <target>"%value%" no concuerda con el formato de fecha (%time_format%).</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>The captcha is not valid (%error%).</source>
+        <target>La verificación de palabra no es válida (%error%).</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Unable to check the captcha from the server (%error%).</source>
+        <target>Imposible verificar la palabra desde el servidor (%error%).</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Value %value% is forbidden</source>
+        <target>El valor %value% no está permitido.</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Unable to find the related record</source>
+        <target>No se ha encontrado el registro relacionado</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>The date cannot be in the future</source>
+        <target>La fecha no puede estar en el futuro</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>The date cannot be in the past</source>
+        <target>La fecha no puede estar en el pasado</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The time interval between the two dates is too shortl</source>
+        <target>El intervalo de tiempo entre las dos fechas es demasiado corto</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The time interval between the two dates is too long</source>
+        <target>El intervalo de tiempo entre las dos fechas es demasiado largo</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>The start date must be prior to the end date</source>
+        <target>La fecha de inicio debe ser anterior a la fecha de fin</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>yes or no</source>
+        <target>sí o no</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>yes</source>
+        <target>sí</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>is empty</source>
+        <target>vacío</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Required.</source>
+        <target>Campo requerido.</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Invalid.</source>
+        <target>Valor no válido.</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Back to list</source>
+        <target>Regresar</target>
+      </trans-unit>
+      
+      <!--  Requerido por plugin themeRoller -->
+      <trans-unit id="39">
+        <source>Actions</source>
+        <target>Acciones</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Filters</source>
+        <target>Buscar</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Page</source>
+        <target>Página</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>of %1%</source>
+        <target>de %1%</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>View %1% - %2% of %3%</source>
+        <target>Se muestran %1% - %2% de %3%</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Reset</source>
+        <target>Restablecer</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>The username and/or password is invalid.</source>
+        <target>El usuario y/o contraseña ingresados no son válidos.</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>The two passwords must be the same.</source>
+        <target>Las contraseñas ingresadas en ambos campos no coinciden.</target>
+      </trans-unit>
+   </body>
+  </file>
+</xliff>

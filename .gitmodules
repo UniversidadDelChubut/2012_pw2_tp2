@@ -1,0 +1,9 @@
+[submodule "lib/vendor/symfony"]
+	path = lib/vendor/symfony
+	url = git://github.com/symfony/symfony1.git
+[submodule "plugins/sfPropelORMPlugin"]
+	path = plugins/sfPropelORMPlugin
+	url = git://github.com/propelorm/sfPropelORMPlugin.git
+[submodule "plugins/mpProjectPlugin"]
+	path = plugins/mpProjectPlugin
+	url = git://github.com/mppfiles/mpProjectPlugin.git
