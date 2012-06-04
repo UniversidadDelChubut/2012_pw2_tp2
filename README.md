@@ -11,5 +11,5 @@ Repositorio para el TP2 de la cátedra Programación Web II.
 3. Actualizar las dependencias del proyecto
     `git submodule update --init --recursive`
 
-* Configurar Apache para acceder al proyecto vía web (ver archivo .conf incluido)
+4. Configurar Apache para acceder al proyecto vía web (ver archivo .conf incluido)
   
