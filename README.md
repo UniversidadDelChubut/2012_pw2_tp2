@@ -13,3 +13,4 @@ Repositorio para el TP2 de la cátedra Programación Web II.
 
 4. Configurar Apache para acceder al proyecto vía web (ver archivo .conf incluido)
   
+5. Desarrollar el práctico hasta que quede espectacular!
