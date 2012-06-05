@@ -12,5 +12,7 @@ Repositorio para el TP2 de la cátedra Programación Web II.
     `git submodule update --init --recursive`
 
 4. Configurar Apache para acceder al proyecto vía web (ver archivo .conf incluido)
-  
-5. Desarrollar el práctico hasta que quede espectacular!
+
+5. Crear los enlaces a los css/js con `symfony plugin:publish-assets`
+
+6. Desarrollar el práctico hasta que quede espectacular!
