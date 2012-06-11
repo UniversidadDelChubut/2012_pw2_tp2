@@ -1,5 +1,7 @@
 nbproject
 web/uploads/*
+cache/*
+log/*
 config/databases.yml
 data/sql/*
 web/*Plugin
